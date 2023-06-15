@@ -8,6 +8,8 @@ paige:
 
 <p>{{% paige/image alt="logo" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="10rem" loading="eager" process="webp" src="/images/ofdt1.png" width="30%" %}} </p>
 
+Image above is a test
+
 ### Einar Broch Johnsen
 Add information
 
