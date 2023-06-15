@@ -1,0 +1,36 @@
+baseURL = 'http://dtoslofjord.org/'
+languageCode = 'en-us'
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "participants"
+name = "Participants"
+url = "/participants/"
+weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noclasses = false
+  [markup.tableOfContents]
+    endlevel = 0
+    ordered = true
+    startlevel = 0
