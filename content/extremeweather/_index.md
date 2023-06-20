@@ -70,16 +70,16 @@ fluid dynamics (CFD) model will be developed to account for these
 changes. The output of the CFD simulations together with sensor data
 will be used as input to the operational model, with the digital twin
 as an interface.  The project concretely studies two fundamental
-methodlogical challenges for digital twin technology used to monitor
+methodological challenges for digital twin technology used to monitor
 climate change of natural areas:</p>
 
 + **Models as interpolation between observations:** How to use models to
-couple time series data from diofferent locations in a physical system
-and validate the quality ofsuch interpolations experimentally?
+couple time series data from different locations in a physical system
+and validate the quality of such interpolations experimentally?
 
 + **Dynamic scope in digital twins:**
 How to dynamically change precision in digital twins locally for a
-critical area in the physical system byt coupling multiscale models
+critical area in the physical system by coupling multiscale models
 with empirical observations on demand?
 
 The project is highly interdisciplinary and brings together three
