@@ -24,6 +24,12 @@ name = "Participants"
 url = "/participants/"
 weight = 30
 
+[[languages.en.menu.main]]
+identifier = "extremeweather"
+name = "Extreme weather"
+url = "/extremeweather/"
+weight = 40
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
