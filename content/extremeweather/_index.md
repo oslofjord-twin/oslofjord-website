@@ -12,7 +12,7 @@ paige:
       margin: 3px;
     }  
   </style>
-  
+
 
 <img src="/images/flom.jpg" width="300">
 
@@ -86,7 +86,7 @@ The project is highly interdisciplinary and brings together three
 disciplines: oceanography, hydrodynamics (fluid mechanics) and digital
 twins.
 
-### Positioning wrt the UN Sustainability Goals
+### Positioning with the UN Sustainability Goals
 
 <img src="/images/UNIGoal9.png" width="80">
 <img src="/images/UNIGoal11.png" width="80">
